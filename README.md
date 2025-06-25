@@ -14,4 +14,6 @@ The goal of this project is to determine the sentiment (positive, negative, or n
 
 ## Installation
 
-git clone
+git clone https://github.com/Swishxo/SOA.git
+cd sentiment
+
